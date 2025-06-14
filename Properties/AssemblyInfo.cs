@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CultureSorting")]
+[assembly: AssemblyTitle("ConsoleApp5")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CultureSorting")]
+[assembly: AssemblyProduct("ConsoleApp5")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dbf0f0ed-f0e6-4145-bfae-a4a04a880e43")]
+[assembly: Guid("9313c442-d001-4a68-968f-bf58d526a6f5")]
 
 // Version information for an assembly consists of the following four values:
 //
